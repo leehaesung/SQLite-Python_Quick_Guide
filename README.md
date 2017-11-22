@@ -35,3 +35,11 @@
 * ### SQLite DB Browser
 
 ![INSERTOperation.png](https://github.com/leehaesung/SQLite-Python_Quick_Guide/blob/master/INSERTOperation.png)
+
+***
+### References
+
+* SQLite Tutorial: https://www.tutorialspoint.com/sqlite/
+
+* SQLite Quick Guide: https://www.tutorialspoint.com/sqlite/sqlite_quick_guide.htm
+
