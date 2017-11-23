@@ -27,6 +27,15 @@
 
 ***
 * ### Jupyter-notebook
+```
+sudo su -
+apt-get update
+apt-get install python-matplotlib
+apt-get install python-scipy
+pip install --upgrade pip
+reboot
+sudo pip install jupyter
+```
 
 ![SQLite_JupyterNotebook.png](https://github.com/leehaesung/SQLite-Python_Quick_Guide/blob/master/SQLite_JupyterNotebook.png)
 
