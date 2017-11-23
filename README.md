@@ -6,23 +6,23 @@
 
 ***
 * How to install SQLite3 for Ubuntu:
-
+    ```
     sudo apt-get install sqlite3 libsqlite3-dev
-
+    ```
 
 * How to Install sqlitebrowser for Ubunt:
-
-    sudo apt-get install sqlitebrowser
-  
+    ```
+    sudo apt-get install sqlitebrowser  
+    ```
 * How to use:
 
-  * To start: ubuntu@ubuntu:~$ sqlite3
+  * To start: ``` ubuntu@ubuntu:~$ sqlite3 ```
 
-  * To quit: sqlite> .quit
+  * To quit:  ``` sqlite> .quit ```
 
-  * To creat: ubuntu@ubuntu:~$ sqlite3 database_name.db
+  * To creat: ``` ubuntu@ubuntu:~$ sqlite3 database_name.db ```
 
-  * To check: sqlite> .databases
+  * To check: ``` sqlite> .databases ```
 
 
 ***
