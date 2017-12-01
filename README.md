@@ -1,8 +1,6 @@
 # SQLite-Python Quick Guide
 
-#### [Total Jupyter nbviwer](http://nbviewer.jupyter.org/github/leehaesung/SQLite-Python_Quick_Guide/blob/master/How_To_Use_SQLITE3_Python_Ubuntu.ipynb)
-
-* [Source Code : How_To_Use_SQLITE3_Python_Ubuntu.ipynb](https://github.com/leehaesung/SQLite-Python_Quick_Guide/blob/master/How_To_Use_SQLITE3_Python_Ubuntu.ipynb) || [PDF File](https://github.com/leehaesung/SQLite-Python_Quick_Guide/blob/master/How_To_Use_SQLITE3_Python_Ubuntu.pdf)
+* [Source Code : How_To_Use_SQLITE3_Python_Ubuntu.ipynb](https://github.com/leehaesung/SQLite-Python_Quick_Guide/blob/master/How_To_Use_SQLITE3_Python_Ubuntu.ipynb) 
 
 ***
 * How to install SQLite3 for Ubuntu:
